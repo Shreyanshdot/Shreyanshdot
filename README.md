@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="Shreyanshdot-twitter" width="22px" height="22px" src="./icons/twitter.png" />](https://twitter.com/_shreyansh__)
+[<img align="left" alt="Shreyanshdot-twitter" width="30px" height="22px" src="./icons/twitter.png" />](https://twitter.com/_shreyansh__)
 </br>
 [![Twitter](./icons/twitter.png)](https://twitter.com/_shreyansh__)
 <br/>
