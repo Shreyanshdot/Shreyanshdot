@@ -1,4 +1,7 @@
-## Hey there, this is Shreyansh 👋
+## Hey there 👋
+
+Hey ! this is Shreyansh, I have completed my Diploma in _Information Technology_.
+Learning new stuff, & Looking forward to contribute to Open Source.
 
 <br/>
 
@@ -6,9 +9,6 @@
 
 </br>
 
-<br/>
-
 ## Connect with me
 
 [<img align="left" alt="Shreyanshdot-twitter" width="30px" height="30px" src="./icons/twitter.png" />](https://twitter.com/_shreyansh__)
-</br>
