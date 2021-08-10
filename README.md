@@ -9,6 +9,7 @@ Learning new stuff, & Looking forward to contribute to Open Source.
 
 </br>
 
-## Connect with me
+#### Connect with me
 
 [<img align="left" alt="Shreyanshdot-twitter" width="30px" height="30px" src="./icons/twitter.png" />](https://twitter.com/_shreyansh__)
+[<img align="left" alt="Shreyanshdot-twitter" width="30px" height="30px" src="./icons/twitter.png" />](https://www.linkedin.com/in/shreyansh-dawar-5641381a1/)
